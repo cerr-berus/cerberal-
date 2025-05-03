@@ -5,3 +5,5 @@
     <h3 align="center">          
 ୨ " that's not who I am. " ୧
  </h3>   
+ 
+<br> <p align="center">![](https://komarev.com/ghpvc/?username=cerr-berus&label=✦&color=#gray)</p>
